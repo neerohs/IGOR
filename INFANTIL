@@ -2,6 +2,18 @@
 
 ---INFANTIL---
 
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR FHD
+http://grtsvk.life:8080/igor00001/00001igor/71085
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR HD
+http://grtsvk.life:8080/igor00001/00001igor/71368
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR SD
+http://grtsvk.life:8080/igor00001/00001igor/71234
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="INFANTIL",NICK JR SD
+http://grtsvk.life:8080/igor00001/00001igor/71693
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://lh3.googleusercontent.com/-nLpTY70zUsE/YB7gOTY3MEI/AAAAAAAAKBw/ez8j0QomxDMijqa3u2yd-e8elztXwtOYgCLcBGAsYHQ/ICONES%2BFAZER.png" group-title="INFANTIL",NICKELODEON HD
+http://grtsvk.life:8080/igor00001/00001igor/71367
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://lh3.googleusercontent.com/-nLpTY70zUsE/YB7gOTY3MEI/AAAAAAAAKBw/ez8j0QomxDMijqa3u2yd-e8elztXwtOYgCLcBGAsYHQ/ICONES%2BFAZER.png" group-title="INFANTIL",NICKELODEON SD
+http://grtsvk.life:8080/igor00001/00001igor/71235
 #EXTINF:-1 tvg-id="" tvg-name=" Padrinhos Mágicos" tvg-logo="https://1.bp.blogspot.com/-t2o49gN9ato/XuthReE67jI/AAAAAAAAGZE/2YCp5NRrTsYK1BXR3qM36cWju_UV9InsgCK4BGAYYCw/s320/padrinho%2Bm%25C3%25A1gico.png" group-title="INFANTIL 24H", Padrinhos Mágicos
 http://grtsvk.life:8080/igor00001/00001igor/23333
 #EXTINF:-1 tvg-id="" tvg-name="A Formiga Atômica" tvg-logo="https://1.bp.blogspot.com/-mufRd6IzcjM/XuzoXcvxw2I/AAAAAAAAGZ8/hC7NQui69YwWQyD3-fkEGPegkMite1s8ACK4BGAYYCw/s320/A%2BFormiga%2BAt%25C3%25B4mica.png" group-title="INFANTIL 24H",A Formiga Atômica
